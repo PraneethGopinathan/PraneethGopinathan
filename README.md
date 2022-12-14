@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python, devops, cloud, aws, azure**
 
-- 📄 Know about my experiences [https://praneethgopinathan.github.io/portfolio/](https://praneethgopinathan.github.io/portfolio/)
+- 📄 Know about my experiences [Digital-Resume](https://praneethgopinathan.github.io/portfolio/)
 
 
 </br><h3 align="left">Connect with me:</h3>
