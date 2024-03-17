@@ -9,9 +9,12 @@
 
 - 📄 Explore my experiences on [Digital Resume](https://praneethgopinathan.github.io/portfolio/)
 
+- 📝 Follow me on [Medium](https://medium.com/@praneethgopinathan)
+
 </br><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/praneethtt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praneethtt/" height="30" width="40" style="background-color:white;border-radius:50%" /></a>
+<a href="https://medium.com/@praneethgopinathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@praneethgopinathan" height="30" width="40" style="background-color:white;border-radius:50%" /></a>
 <a href="https://stackoverflow.com/users/9751277/praneeth-t-t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9751277/praneeth-t-t" height="30" width="40" style="background-color:white;border-radius:50%" /></a>
 </p>
 <br>
