@@ -44,9 +44,9 @@
   <!-- add other tools here -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/praneethgopinathan">
     <img src="https://github-readme-stats.vercel.app/api?username=praneethgopinathan&show_icons=true&locale=en&bg_color=ffffff&title_color=0e75b6&text_color=333333&icon_color=0e75b6" alt="Praneeth Gopinathan's GitHub Stats" />
   </a>
-</p>
+</p> -->
 
