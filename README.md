@@ -68,5 +68,3 @@
 </p>
 
 ---
-
-This version combines your professional experience with an overview of your technical skills and contact information, presented with the latest icon set. Feel free to adjust or expand as needed!
